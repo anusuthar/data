@@ -1,0 +1,59 @@
+{
+  "status": "success",
+  "data": {
+    "customer": "Jonas Schmedtmann",
+    "status": "delivered",
+    "priority": true,
+    "cart": [
+      {
+        "addIngredients": [],
+        "removeIngredients": [],
+        "pizzaId": 1,
+        "name": "Margherita",
+        "quantity": 2,
+        "unitPrice": 12,
+        "totalPrice": 24
+      },
+      {
+        "addIngredients": [],
+        "removeIngredients": [],
+        "pizzaId": 4,
+        "name": "Prosciutto e Rucola",
+        "quantity": 3,
+        "unitPrice": 16,
+        "totalPrice": 48
+      },
+      {
+        "addIngredients": [],
+        "removeIngredients": [],
+        "pizzaId": 6,
+        "name": "Vegetale",
+        "quantity": 1,
+        "unitPrice": 13,
+        "totalPrice": 13
+      },
+      {
+        "addIngredients": [],
+        "removeIngredients": [],
+        "pizzaId": 7,
+        "name": "Napoli",
+        "quantity": 2,
+        "unitPrice": 16,
+        "totalPrice": 32
+      },
+      {
+        "addIngredients": [],
+        "removeIngredients": [],
+        "pizzaId": 11,
+        "name": "Spinach and Mushroom",
+        "quantity": 2,
+        "unitPrice": 15,
+        "totalPrice": 30
+      }
+    ],
+    "id": "IIDSAT",
+    "estimatedDelivery": "2023-04-25T06:42:22.937Z",
+    "orderPrice": 147,
+    "priorityPrice": 29
+  }
+}
